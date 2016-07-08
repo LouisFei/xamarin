@@ -1,0 +1,13 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/xamarin-forms-samples/XAMLSamples/packages
+/xamarin-forms-samples/XAMLSamples/XamlSamples.userprefs
+/xamarin-forms-samples/XAMLSamples/XamlSamples/XamlSamples/bin/Debug
+/xamarin-forms-samples/XAMLSamples/XamlSamples/XamlSamples/obj/Debug
+/xamarin-forms-samples/XAMLSamples/XamlSamples/XamlSamples.Android/bin/Debug
+/xamarin-forms-samples/XAMLSamples/XamlSamples/XamlSamples.Android/obj/Debug
+/xamarin-forms-samples/XAMLSamples/XamlSamples/XamlSamples.iOS/obj/iPhoneSimulator/Debug
+/xamarin-forms-samples/XAMLSamples/XamlSamples/XamlSamples.WinPhone/obj/Debug
+/xamarin-forms-samples/XAMLSamples/.vs/XamlSamples/v14/.suo
